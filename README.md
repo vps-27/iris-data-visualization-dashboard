@@ -38,7 +38,3 @@ You can open the notebook directly in Google Colab:
 This wasn’t about building something complex — it was about reconnecting with the joy of exploring data visually.
 Sometimes, going back to the classics like the Iris dataset is the best way to sharpen your skills and restart your creative flow.
 
-
-
-
-Would you like me to also give you the **exact Markdown code** for the *“Open in Colab”* button (so it looks like an actual button in your GitHub README)?
